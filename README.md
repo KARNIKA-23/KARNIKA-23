@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karnika</h1>
-<h3 align="center">A passionate backend developer,ML engineer,GenAiand as cloud engineer</h3>
+<h3 align="center">A passionate backend developer,ML engineer,GenAI and as cloud engineer</h3>
 
 - 🔭 I’m currently working on **official path**
 
