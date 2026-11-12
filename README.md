@@ -206,12 +206,6 @@
 
 <img src="https://mihail.co/media/2023/snake.gif" alt="Snake animation" />
 
-🐍 GitHub Snake
-<p align="center">
-  <img src="https://github.com/github-snake.svg" />
-</p>
-
-
 ---
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
