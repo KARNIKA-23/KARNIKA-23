@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
-    <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+    <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
@@ -105,7 +105,7 @@
 <a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white">
 </a>
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python ?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
@@ -114,16 +114,10 @@
     <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=r" target="_blank">
+       <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>   
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Hadoop-%232A73CC?style=flat-square&logo=apache-hadoop&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Spark-%23E25A1C?style=flat-square&logo=apache-spark&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/CV-%233776AB?style=flat-square&logo=computer-vision&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LSTM-%23FF6F61?style=flat-square&logo=lstm&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LLM-%2344BFC8?style=flat-square&logo=llm&logoColor=white"></a>
     <!-- Example for Python3 -->
 <a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank">
   <img alt="Python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -208,19 +202,22 @@
 
 ---
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="left">Tech Stack</h2> 
 
-<h3 align="left">💡 Skills & Current Learnings</h3>
+<h3 align="left"> Skills & Current Learnings</h3>
 
 <ul align="left">
-  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
+  <li>🤖 <strong>AI & Machine Learning</strong><br>Core concepts, model training, and real-world applications.</li><br>
 
-  <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
+  <li>🐍 <strong> Python Development</strong><br>Python programming, Flask, libraries and application development.</li><br>
 
-  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
+  <li>🧠<strong>Natural Language Processing (NLP)</strong><br>Text preprocessing, tokenization, chatbot development and language models.</li><br>
 
-  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
-
-  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
+  <li>✨<strong>Generative AI & LLMs</strong><br>LangChain, Google Gemini API, prompt engineering and RAG fundamentals</li><br>
+  <li>⚙️<strong>MLOps</strong><br>DVC, data and model versioning, ML pipelines, Feast and model monitoring with Evidently AI.</li><br>
+  <li>👁️<strong>Computer Vision</strong><br>OpenCV fundamentals and image processing.</li><br>
+  <li>🔧<strong>Tools & Version Control</strong><br>Git, GitHub, Jupyter Notebook and Google Colab.</li><br>
+  <li>🌐<strong>Web & Application Development</strong><br>HTML, CSS, JavaScript, Flask and Streamlit.</li><br>
+ <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, Terraform(Infrastructure as Code), CI/CD pipelines, GitHub Actions, AWS and Azure fundamentals.</li>
 </ul>
 
